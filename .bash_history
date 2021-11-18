@@ -401,3 +401,121 @@ B8ze8fkcxQ247KUD0Yjyaelwd1MDL8q/eTouyHZ/IB8xmvoq9r158kPuR/NrYw50tR1qKS
 oPIUPsjtwZ2qtIhbey4cKOUkDa2zIM/ebT9UC7cxkrCddDnE9S2+EO8rAWOG23JXOGtve0
 RWv9UALoECQ8sAAAAXdWJ1bnR1QGlwLTE3Mi0zMS0zMS0yNDEBAgME
 -----END OPENSSH PRIVATE KEY-----
+mkdir infosys
+ls
+cd infosys
+git clone https://github.com/Infosys-96/core-app.git
+ls -lrt
+git status
+git add .
+git rm --cached infosys/core-app
+git status
+clear
+ls-rlt
+ls-lrt
+ls -rlt
+git clone git@github.com:Infosys-96/core-app.git
+cd infosys
+git clone git@github.com:Infosys-96/core-app.git
+git status
+touch mira
+git status
+git add mira
+git status
+git commit -m "connecting to server"
+git log
+cd
+git remote add origin git remote add origin  <REMOTE_URL> 
+# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
+git remote add origin git remote add origin git@github.com:Infosys-96/core-app.git
+git remote add origin git@github.com:Infosys-96/core-app.git
+$ git remote -v
+git remote add origin
+git remote add origin https://github.com/Infosys-96/core-app.git
+git status
+git add devOps
+git status
+git push
+rm -rf repo.git
+git status
+git init
+mkdir DevOps
+cd DevOps
+gin init
+sudo apat install git
+sudo apt install git
+git init
+git add Dhanno
+git status
+git add
+git add .
+git status
+touch Dhano
+git status
+git add .
+git status
+git commit -m "declering dhanno is added"
+git config --global 
+clear
+ls -rlt
+rm -rf devOps
+rm -rf README.MD
+rm -rf kali
+rm -rf infosys
+rm -rf DevOps
+ls -rlt
+rm -rf README.md
+ls -rlt
+git clone https://github.com/santoshjmd/raje.git
+git clone https://github.com/Infosys-96/core-app.git
+which ruby
+apt install ruby
+sudo apt install ruby
+sudo apt install ruby -y
+which ruby
+git
+git init
+git remote add origin "https://github.com/Infosys-96/core-app.git"
+lr -rlt
+lr -lrt
+sudo
+sufo -T
+LS
+lss
+ls
+rm -r raje
+cd core-app
+git init
+git remote add origin "https://github.com/Infosys-96/core-app.git"
+LS
+lks
+ls
+clear
+ls
+cd core-app
+git status
+git add DEMO
+touch DEMO
+git add .
+git status
+git commit -M "Hoja bhai ye to"
+git commit -m "Hoja bhai ye to"
+git config --global --edit
+git commit -m "Hoja bhai ye to"
+git push
+git log
+git remote add origin https://github.com/santoshjmd/IThub.git
+cd
+git remote add origin https://github.com/santoshjmd/IThub.git
+git remote remove origin https://github.com/santoshjmd/IThub.git
+git remote remove origin https://github.com/santoshjmd.git
+git remote remove
+git remote remove https://github.com/santoshjmd.git
+git remote remove https://github.com/santoshjmd/IThub.git
+git remote add origin https://github.com/santoshjmd/IThub.git
+ls
+cd core-app
+git remote add origin https://github.com/santoshjmd/IThub.git
+git remote remove https://github.com/santoshjmd/IThub.git
